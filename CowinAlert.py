@@ -1,6 +1,3 @@
-'''district_id : 199
-state_id : 12'''
-
 import email
 import smtplib
 from datetime import datetime
